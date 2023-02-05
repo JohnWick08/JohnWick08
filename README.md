@@ -1,12 +1,12 @@
-Hi 👋 My name is Thomas Hart
+Hi 👋 My name is Gary Gao
 ============================
 
-Computer Engineering Student at the University of Waterloo
+Computer Science Student at the University of Ottawa
 ----------------------------------------------------------
 
-* 🌍  I'm based in Vancouver, BC
-* 🖥️  See my portfolio at [thomashart17.github.io](http://thomashart17.github.io)
-* ✉️  You can contact me at [thomas.hart@uwaterloo.ca](mailto:thomas.hart@uwaterloo.ca)
+* 🌍  I'm based in Ottawa, ON
+* 🖥️  See my portfolio at [garymygao.cm](https://www.garymygao.com/)
+* ✉️  You can contact me at [mgao041@uottawa.ca](mailto:mgao041@uottawa.ca)
 
 ### Skills
 
