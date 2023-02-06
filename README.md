@@ -1,4 +1,4 @@
-Hi 👋 My name is Gary Gao
+Hi 👋 My name is Gary
 ============================
 
 Computer Science Student at the University of Ottawa
