@@ -6,7 +6,7 @@ Computer Science Student at the University of Ottawa
 
 * 🌍  I'm based in Ottawa, ON
 * 🖥️  See my portfolio at [garymygao.com](https://www.garymygao.com/)
-* ✉️  You can contact me at [mgao041@uottawa.ca](mailto:mgao041@uottawa.ca)
+* ✉️  Please feel free to contact me at [mgao041@uottawa.ca](mailto:mgao041@uottawa.ca)
 
 ### Skills
 
