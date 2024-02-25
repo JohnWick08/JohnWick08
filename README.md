@@ -1,6 +1,6 @@
 Hi 👋 My name is Gary
 ============================
-Computer Science at the University of Ottawa (Graduated)
+Computer Science at the University of Ottawa (Graduated) <br>
 Currently working in Exponet Canada Inc as full-stack developer
 ----------------------------------------------------------
 
