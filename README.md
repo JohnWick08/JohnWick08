@@ -1,12 +1,12 @@
 Hi 👋 My name is Gary
 ============================
-
-Computer Science Student at the University of Ottawa
+Computer Science at the University of Ottawa (Graduated)
+Currently working in Exponet Canada Inc as full-stack developer
 ----------------------------------------------------------
 
-* 🌍  I'm based in Ottawa, ON
+* 🌍  I'm based in Mississauga, ON
 * 🖥️  See my portfolio at [garymygao.com](https://www.garymygao.com/)
-* ✉️  Please feel free to contact me at [mgao041@uottawa.ca](mailto:mgao041@uottawa.ca)
+* ✉️  Please feel free to contact me at [muyuangarygao@gmail.com](mailto:muyuangarygao@gmail.com)
 
 ### Skills
 
