@@ -1,7 +1,7 @@
 Hi 👋 My name is Gary
 ============================
 Computer Science at the University of Ottawa (Graduated) <br>
-Currently working in Exponet Canada Inc as full-stack developer
+Currently working in Prodigy Education as Software Developer I
 ----------------------------------------------------------
 
 * 🌍  I'm based in Mississauga, ON
