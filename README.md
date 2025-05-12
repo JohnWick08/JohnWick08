@@ -4,7 +4,7 @@ Computer Science at the University of Ottawa (Graduated) <br>
 Currently working in Prodigy Education as Software Developer I
 ----------------------------------------------------------
 
-* 🌍  I'm based in Mississauga, ON
+* 🌍  I'm based in Toronto, ON
 * 🖥️  See my portfolio at [garymygao.com](https://www.garymygao.com/)
 * ✉️  Please feel free to contact me at [muyuangarygao@gmail.com](mailto:muyuangarygao@gmail.com)
 
